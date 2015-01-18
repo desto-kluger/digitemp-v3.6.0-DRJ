@@ -11,7 +11,7 @@
 #	Added DRJ_digitemp.c to aid in faster compile times
 #
 
-VERSION = 3.6.0
+VERSION = 3.6.0_DRJ
 
 CC	= gcc
 CFLAGS	= -I./src -I./userial -O2 -Wall # -g

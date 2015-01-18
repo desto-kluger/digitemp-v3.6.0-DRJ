@@ -1,7 +1,16 @@
 ----------------------------------------------------------------------------
-  DigiTemp v3.6.0 for Linux			        (c)1996-2008 by Brian C. Lane
+  DigiTemp v3.6.0-DRJ for Linux			        (c)1996-2008 by Brian C. Lane
 ============================================================================
 
+This version "DRJ" adds support for DS2490 and Hobby Board 4ch hubs (and nested hubs!).
+
+I hope that these changes will be incorporated into Brian C. Lane's version, but
+I am not very good at using github!  In the mean time, I hope you find these changes to
+be useful.
+
+-Dustin R. Jermier
+
+============================================================================
   Thank you for using DigiTemp for Linux. If you have any problems or
 suggestions please feel free to contact me at bcl@brianlane.com
 
